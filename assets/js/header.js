@@ -9,12 +9,12 @@ document.write('<div class="znav-container znav" id="znav-container">\
                                 </div>\
                             </button>\
                             <a class="navbar-brand overflow-hidden" href="/index.html">\
-   <img src="/assets/images/favicons/fav-white.png" style="margin-bottom: 3px; margin-right: 3px;" width="25"> Apple Control Lab\
+   <img src="/assets/images/favicons/fav-white.png" style="margin-bottom: 3px; margin-right: 3px;" width="25"> A B C\
                             </a>\
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">\
                                 <ul class="navbar-nav ml-auto">\
                                     <li>\
-                                         <a href="/usingFlow.html"> <span class="icon-Arrow-Right2 fw-300 color-warning" ></span> Traffic Control Lab</a>\
+                                         <a href="/usingFlow.html"> <span class="icon-Arrow-Right2 fw-300 color-warning" ></span> Traffic</a>\
                                     </li>\
                                     <li>\
                                          <a href="/usingFlow.html"> <span class="icon-Arrow-Right2 fw-300 color-warning" ></span> Robot</a>\
