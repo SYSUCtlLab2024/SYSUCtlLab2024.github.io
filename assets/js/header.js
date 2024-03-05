@@ -8,7 +8,7 @@ document.write('<div class="znav-container znav" id="znav-container">\
                                     </div>\
                                 </div>\
                             </button>\
-                            <a class="navbar-brand overflow-hidden" href="/index.html">\
+                            <a class="navbar-brand overflow" href="/index.html">\
    <img src="/assets/images/favicons/logo-white.png" style="margin-bottom: 3px; margin-right: 3px;" width="25">Apple&nbsp;Ctl&nbsp;Lab\
                             </a>\
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">\
