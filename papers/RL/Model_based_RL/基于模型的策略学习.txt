@@ -1,0 +1,5 @@
+基于模型的文献
+
+Gu et al. Continuous deep Q-learning with model-based acceleration.16
+Feinberg et al. Model-based value expansion.18
+Janner et al. When to trust your model :model-based policy optization.19 

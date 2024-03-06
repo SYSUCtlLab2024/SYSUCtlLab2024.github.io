@@ -1,0 +1,4 @@
+1.https://slideslive.com/38930488/modelbased-methods-in-reinforcement-learning-part-1-introduction-learning-models
+2.https://slideslive.com/38930486/modelbased-methods-in-reinforcement-learning-part-2-modelbased-control
+3.https://slideslive.com/38930487/modelbased-methods-in-reinforcement-learning-part-3-modelbased-control-in-the-loop
+4.https://slideslive.com/38930489/modelbased-methods-in-reinforcement-learning-part-4-beyond-vanilla-mbrl
