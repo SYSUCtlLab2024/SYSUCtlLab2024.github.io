@@ -29,7 +29,7 @@ document.write('<div class="znav-container znav" id="znav-container">\
                                                 <a href="/gallery/index.html">Blog</a>\
                                             </li>\
                                             <li>\
-                                                <a href="/publications.html">papers</a>\
+                                                <a href="/papers.html">papers</a>\
                                             </li>\
                                             <li>\
                                                 <a href="/tutorial.html">other</a>\
