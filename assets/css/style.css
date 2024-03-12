@@ -241,7 +241,7 @@ a:hover, a:focus {
 .znav-container .navbar {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 0.75019rem;
   letter-spacing: 0.01em;
   border-radius: 3px;
   transition: all 0.2s ease-in-out;
@@ -251,7 +251,7 @@ a:hover, a:focus {
 }
 
 .znav-container .navbar a.navbar-brand {
-  font-size: 1.4rem;
+  font-size: 1.333rem;
   text-transform: uppercase;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
