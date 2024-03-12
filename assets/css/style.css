@@ -247,7 +247,7 @@ a:hover, a:focus {
   transition: all 0.2s ease-in-out;
   padding-left: 0;
   padding-right: 0;
-  line-height: 1.5;
+  line-height: 3;
 }
 
 .znav-container .navbar a.navbar-brand {
