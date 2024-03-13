@@ -1504,6 +1504,11 @@ small, .small {
   font-family: "Droid Serif", serif;
 }
 
+.font-3{
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.33rem;
+}
+
 .lh-0 {
   line-height: 0 !important;
 }
