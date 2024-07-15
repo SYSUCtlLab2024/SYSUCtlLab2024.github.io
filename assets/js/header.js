@@ -26,28 +26,19 @@ document.write('<div class="znav-container znav" id="znav-container">\
                                                 <a href="/videos.html">Videos</a>\
                                             </li>\
                                             <li>\
-                                                <a href="/gallery/index.html">Blogs</a>\
+                                                <a href="/blogs/index.html">Blogs</a>\
                                             </li>\
                                             <li>\
                                                 <a href="/papers.html">papers</a>\
                                             </li>\
-                                            <li>\
-                                                <a href="/tutorial.html">other</a>\
-                                            </li>\
                                         </ul>\
                                     </li>\
-                                    // <li>\
-                                        // <a href="#">Benchmarks</a>\
-                                    // </li>\
                                     <li>\
                                         <a href="JavaScript:void(0)">About</a>\
                                         <ul class="dropdown">\
                                             <li>\
                                                 <a href="/team.html">Team</a>\
                                             </li>\
-                                            // <li>\
-                                                <a href="/collaborations.html">Collaboration</a>\
-                                            // </li>\
                                             <li>\
                                                 <a href="/contact.html">Contact</a>\
                                             </li>\
@@ -58,3 +49,12 @@ document.write('<div class="znav-container znav" id="znav-container">\
                         </nav>\
                     </div>\
             </div>');
+            //<li>\
+             //                                   <a href="/tutorial.html">other</a>\
+             //                               </li>\
+             // <li>\
+                                        // <a href="#">Benchmarks</a>\
+                                    // </li>\
+            // <li>\
+           // <a href="/collaborations.html">Collaboration</a>\
+            // </li>\
